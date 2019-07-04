@@ -48,5 +48,85 @@
       "d)readily available for use"
     ],
     "answer": "Answer : b The accrual basis of accounting only records income when it is earned"
+  },
+  {
+    "question": "On April 1, 2012, Girard decided to invest $200,000 and Park put up $50,000 to purchase a total of 25,000 shares in the new company. The par value of the shares was $1.00 On April 1, 2012, Girard decided to invest $200,000 and Park put up $50,000 to purchase a total of 25,000 shares in the new company. The par value of the shares was $1.00 ",
+    "options": [
+      "a)Debit  Cash (+A)     250,000 Credit Common Stock (+SE) 25,000  Credit Additional Paid-in-capital (+SE) 225,000",
+      "b) Debit Cash (+A)     250,000  Credit Additional Paid-in-capital (+SE) 225,000 ",
+      "c)Debit Cash (+A)     250,000  Credit Common Stock (+SE) 25,000  ",
+      "d) Debit Cash (+A)     225,000 Credit Additional Paid-in-capital (+SE) 225,000 "
+    ],
+    "answer": "Answer : a"
+  },
+  {
+    "question": " Lacking the funds for her initial investment, Park borrowed the $50,000 from the Imperial Bank of Philadelphia on April 1, using her parent’s house as collateral",
+    "options": [
+      "a)Debit Cash (+A) 50,000  Credit loan 50,000 ",
+      "b) Debit loan 50,000  Credit Cash (+A) 50,000 ",
+      "c) Park's loan of $50,000 not recorded by Relic Spotter because it is a loan to Park personally, not to the business ",
+      "d) None of the above is correct "
+    ],
+    "answer": "Answer : c"
+  },
+  {
+    "question": " On April 2, Park hired a lawyer to have the business incorporated.Because this was a fairly simple organization, the legal fees were only $3,900",
+    "options": [
+      "a) Debit Cash (-A) 3,900 Credit Legal Fee Expense (+E, -SE) 3,900  ",
+      "b) Not recorded because it is not related to business     ",
+      "c) Debit Building (+A) 103,000 Debit. Land (+A) 52,000 Credit Mortgage Payable (+L) 124,000 Credit Cash (-A) 31,000",
+      "d) Credit Building (+A) 52,000 Credit Land (+A) 103,000 Debit Mortgage Payable (+L) 31,000 Debit Cash (-A) 124,000"
+    ],
+    "answer": "Answer : b"
+  },
+  {
+    "question": " To house the business, Park bought an abandoned pizza parlor near Fairmount Park for $155,000 on April 7. The building was old and needed renovation work. The purchase documents allocated $103,000 to the land and $52,000 to the building. Park paid for the building with $31,000 cash and a $124,000 mortgage from the Imperial Bank",
+    "options": [
+      "a) Credit Building (+A) 52,000 Credit Land (+A) 103,000 Debit Mortgage Payable (+L) 124,000 Debit Cash (-A) 31,000",
+      "b) Debit Building (+A) 52,000 Debit. Land (+A) 103,000 Credit Mortgage Payable (+L) 124,000 Credit Cash (-A) 31,000",
+      "c) Debit income (+E, -SE) 3,900  Credit Cash (-A) 3,900   ",
+      "d) Debit Legal Fee Expense (+E, -SE) 3,900  Credit Cash (-A) 3,900  "
+    ],
+    "answer": "Answer : d"
+  },
+  {
+    "question": " To house the business, Park bought an abandoned pizza parlor near Fairmount Park for $155,000 on April 7. The building was old and needed renovation work. The purchase documents allocated $103,000 to the land and $52,000 to the building. Park paid for the building with $31,000 cash and a $124,000 mortgage from the Imperial Bankk",
+    "options": [
+      "a) Credit Building (+A) 52,000 Credit Land (+A) 103,000 Debit Mortgage Payable (+L) 124,000 Debit Cash (-A) 31,000",
+      "b) Debit Building (+A) 52,000 Debit. Land (+A) 103,000 Credit Mortgage Payable (+L) 124,000 Credit Cash (-A) 31,000",
+      "c) Debit Building (+A) 103,000 Debit. Land (+A) 52,000 Credit Mortgage Payable (+L) 124,000 Credit Cash (-A) 31,000",
+      "d) Credit Building (+A) 52,000 Credit Land (+A) 103,000 Debit Mortgage Payable (+L) 31,000 Debit Cash (-A) 124,000"
+    ],
+    "answer": "Answer : b"
+  },
+  {
+    "question": " Park felt that some renovation work would extend the life of the building to 25 years (with an expected salvage value of $10,000). She ordered the renovation work, costing $33,000, to begin immediately.The work was completed on May 25, at which time she paid in cash the amount owed for the renovations",
+    "options": [
+      "a) Debit Building (+A) 33,000 Credit Cash (-A) 33,000",
+      "b) Debit Cash (-A) 33,000 Credit Building (+A)  33,000",
+      "c) Debit Building (+A) 10,000 Credit Cash (-A) 10,000",
+      "d) Debit Building (+A) 23,000 Credit Cash (-A) 23,000"
+    ],
+    "answer": "Answer : a"
+  },
+  {
+    "question": " Park phoned a number of metal detector vendors until she found one that was willing to give her a volume discount. On June 2, Park purchased 240 metal detectors at an average cost of $500 per unit($120,000 total). The innovation in the industry is so rapid that Park felt the units would only last for two years, at which time they would have no remaining value",
+    "options": [
+      "a) Debit Metal Detectors (+A) 240,000 Credit Cash (-A) 240,000",
+      "b) Debit Cash (+A)120,000 Credit Metal Detectors (-A) 120,000",
+      "c) Debit Metal Detectors (+A) 120,000 Credit Cash (-A) 120,000",
+      "d) Debit Metal Detectors (+A) 60,000 Credit Cash (-A) 60,000"
+    ],
+    "answer": "Answer : c"
+  },
+  {
+    "question": " On June 15, Park ordered $2,000 of sundries inventory (e.g., water bottles, energy bars, etc.) to be delivered on June 30. Park was able to purchase the inventory “on account”, which meant she had up to 30 days after delivery to pay the supplier",
+    "options": [
+      "a) Debit Inventory (+A) 2,000Credit Accounts Payable (+L) 2,000",
+      "b) Debit Accounts Payable (+A) 2,000 Credit Inventory(+L) 2,000",
+      "c) none of the above",
+      "d) Debit Accounts Payable (+A) 1,000 Credit Inventory(+L) 1,000"
+    ],
+    "answer": "Answer : a"
   }
 ]
